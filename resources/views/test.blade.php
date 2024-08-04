@@ -1,3 +1,4 @@
+<!-- resources\views\test.blade.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
